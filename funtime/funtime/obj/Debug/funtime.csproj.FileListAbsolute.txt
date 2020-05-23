@@ -1,0 +1,10 @@
+C:\Users\Outlier VR\source\repos\funtime\funtime\bin\Debug\funtime.exe.config
+C:\Users\Outlier VR\source\repos\funtime\funtime\bin\Debug\funtime.exe
+C:\Users\Outlier VR\source\repos\funtime\funtime\bin\Debug\funtime.pdb
+C:\Users\Outlier VR\source\repos\funtime\funtime\obj\Debug\funtime.csprojAssemblyReference.cache
+C:\Users\Outlier VR\source\repos\funtime\funtime\obj\Debug\funtime.Properties.Resources.resources
+C:\Users\Outlier VR\source\repos\funtime\funtime\obj\Debug\funtime.csproj.GenerateResource.cache
+C:\Users\Outlier VR\source\repos\funtime\funtime\obj\Debug\funtime.csproj.CoreCompileInputs.cache
+C:\Users\Outlier VR\source\repos\funtime\funtime\obj\Debug\funtime.exe
+C:\Users\Outlier VR\source\repos\funtime\funtime\obj\Debug\funtime.pdb
+C:\Users\Outlier VR\source\repos\funtime\funtime\obj\Debug\funtime.Form1.resources
